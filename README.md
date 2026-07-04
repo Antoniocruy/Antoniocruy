@@ -1,28 +1,22 @@
-## Ola! Eu sou Antonio Carlos Ruy 
- Estudante de Cinência da Computação
+## Olá! Eu sou o Antonio Carlos Ruy 👋
 
+**Analista de TI na F1RST (Grupo Santander)** • Bacharel em Ciência da Computação
 
-<div align="Left">
-  <a href="https://github.com/Antoniocruy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoniocruy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+Trabalho com análise de dados, automação de indicadores e Power BI em ambiente
+corporativo. Atualmente aprofundando na trilha de **Engenharia e Análise de Dados**.
 
-<div style="display: inline_block"><br>
+### 🛠️ Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-          
-  
- </div>
-  
-  ##
- 
-<div> 
+### 📚 Estudando agora
+- Certificação AWS (2026)
+- Microsoft PL-300 (Power BI Data Analyst)
+- Inglês técnico
 
-  <a href="https://instagram.com/_antonioruy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:antonioruy00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ant%C3%B4nio-carlos-ruy-neto-b0337419a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINK_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonioruy00@gmail.com)
